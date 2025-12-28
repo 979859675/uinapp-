@@ -2,7 +2,6 @@
 
 > **让信任有边界，让爱更透明。** > 一款专为情侣、家庭设计的资产管理与记账 App，集成了 AI 智能风控与毒舌点评。
 
-[在线演示] | [下载安卓 APK] | [提交 Issue]
 
 ---
 
@@ -20,18 +19,20 @@
 * **👀 独创“看一眼”社交**：想看对方账本？发起申请，对方同意后仅限查看一次，退出即销毁权限。
 * **🏆 亲密排行榜**：只比拼当月收支流水，不暴露总资产底牌，激发良性省钱竞争。
 * **🧬 生物识别安全锁**：支持指纹/面部解锁，支持备用密码，金融级隐私保护。
+*## 📸 应用截图
+<details>
+<summary><b>📸 点击查看 12 张功能截图预览</b></summary>
 
----
+| 预览 1 | 预览 2 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/87c62dce-4363-463e-bae3-7ae7b6662e36" width="100%"> | <img src="https://github.com/user-attachments/assets/bcd838b5-2369-4147-b63d-6b5daba01d29" width="100%"> |
+| <img src="https://github.com/user-attachments/assets/8417086d-0805-43f5-9f6d-63693d652f60" width="100%"> | <img src="https://github.com/user-attachments/assets/90239fd7-51ca-49fe-a635-e83103fc5e85" width="100%"> |
+| <img src="https://github.com/user-attachments/assets/11c63278-aa01-45c4-8168-0f7ad0d14d0f" width="100%"> | <img src="https://github.com/user-attachments/assets/180c2fcd-cda5-4eb5-b533-56b42747b360" width="100%"> |
+| <img src="https://github.com/user-attachments/assets/4d3e067a-b226-408b-ad5c-6ddf2da3b494" width="100%"> | <img src="https://github.com/user-attachments/assets/5bbde917-9e4c-4b73-a358-871cbd256edc" width="100%"> |
+| <img src="https://github.com/user-attachments/assets/c2afe396-3804-445f-98a0-7209dae60d22" width="100%"> | <img src="https://github.com/user-attachments/assets/947d8897-3035-42d1-96ca-b86ea1a9c277" width="100%"> |
+| <img src="https://github.com/user-attachments/assets/b2bb3beb-a949-4943-a46f-9db145d5b55c" width="100%"> | <img src="https://github.com/user-attachments/assets/8585e642-02b7-49be-b598-e3c6d197736c" width="100%"> |
 
-## 📸 应用截图
-
-| 总览与资产 | 智能风控 | AI 毒舌 | 亲密排行 |
-| --- | --- | --- | --- |
-| <img src="QQ_1766900200392.png" width="200"/> | <img src="Screenshot_2025-12-28-14-09-53-719_cc.wodeshouzhi.jpg" width="200"/> | <img src="image_d316bd.png" width="200"/> | <img src="Screenshot_2025-12-28-15-28-39-305_cc.wodeshouzhi.jpg" width="200"/> |
-
-| 记账与余额 | 账户管理 | 抓包/网络 | 启动页 |
-| --- | --- | --- | --- |
-| <img src="Screenshot_2025-12-28-13-52-34-218_cc.wodeshouzhi.jpg" width="200"/> | <img src="Screenshot_2025-12-28-14-09-37-166_cc.wodeshouzhi.jpg" width="200"/> | <img src="Screenshot_2025-12-28-15-38-05-036_com.network.pr.jpg" width="200"/> | <img src="Screenshot_2025-12-28-15-28-44-566_cc.wodeshouzhi.jpg" width="200"/> |
+</details>
 
 ---
 
